@@ -2,5 +2,6 @@
     <string name="app_name">Translation</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="돌아버리겠눼">돌아버리겠눼</string>
     <string name="action_settings">Settings</string>
 </resources>
